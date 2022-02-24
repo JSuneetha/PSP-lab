@@ -2,4 +2,5 @@
 void main()
 {
 prinf("welcome to github");
+printf("git training");
 }
